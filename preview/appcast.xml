@@ -5,16 +5,16 @@
     <link>https://raw.githubusercontent.com/LeonLND/foundation-runtime-updates/main/preview/appcast.xml</link>
     <description>Signed Foundation Runtime Player releases.</description>
     <item>
-      <title>Foundation 0.0.6-alpha.1</title>
-      <description>Enables real Windows touchscreen input for production four- and five-contact gestures, aligns five-contact double-tap with the interaction-layer toggle, and adds native touch forwarding diagnostics.</description>
-      <pubDate>Thu, 23 Jul 2026 12:59:17 GMT</pubDate>
-      <enclosure url="https://github.com/LeonLND/foundation-runtime-updates/releases/download/preview-6/Foundation-Runtime-Player-0.0.6-alpha.1-x64-Setup.exe"
-                 length="40606948"
+      <title>Foundation 0.0.7-alpha.1</title>
+      <description>Overhauls physical touchscreen interactions: touch marquee selection, settled five-contact spread-to-tile and pinch-to-stack, centre-anchored two-contact window scaling, stable multi-touch release handling, and contextual refresh/settings controls after five rapid taps in every window mode.</description>
+      <pubDate>Thu, 23 Jul 2026 14:27:50 GMT</pubDate>
+      <enclosure url="https://github.com/LeonLND/foundation-runtime-updates/releases/download/preview-7/Foundation-Runtime-Player-0.0.7-alpha.1-x64-Setup.exe"
+                 length="40606894"
                  type="application/octet-stream"
-                 sparkle:version="6"
-                 sparkle:shortVersionString="0.0.6-alpha.1"
+                 sparkle:version="7"
+                 sparkle:shortVersionString="0.0.7-alpha.1"
                  sparkle:os="windows-x64"
-                 sparkle:edSignature="LpNCNISH9nZ/gfHQ5MW7FlcAsZO9ileZF0cbThDa6w2iKNxaZmFs5NbojOjHQUGFJOPUxwQpciUcsFT41BaiDQ=="
+                 sparkle:edSignature="O1W4Robp0vtQ22ehndUaSCWgzNMp10OqwIevkt7ewMD6Ra7yHuWn005hpDjImTHx0k1zeVj59DatQPtxZIppDA=="
                  sparkle:installerArguments="/passive /norestart" />
     </item>
   </channel>
