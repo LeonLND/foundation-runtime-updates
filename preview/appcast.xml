@@ -5,16 +5,16 @@
     <link>https://raw.githubusercontent.com/LeonLND/foundation-runtime-updates/main/preview/appcast.xml</link>
     <description>Signed Foundation Runtime Player releases.</description>
     <item>
-      <title>Foundation 0.0.11-alpha.1</title>
-      <description>Linked-player reliability: stale-session recovery, explicit unlink cleanup, connected-only handover targets, aligned readiness timeout, visible failure feedback, and stable collision-safe Spatial Arrangement.</description>
-      <pubDate>Thu, 23 Jul 2026 17:48:46 GMT</pubDate>
-      <enclosure url="https://github.com/LeonLND/foundation-runtime-updates/releases/download/preview-11/Foundation-Runtime-Player-0.0.11-alpha.1-x64-Setup.exe"
-                 length="40607992"
+      <title>Foundation 0.0.12-alpha.1</title>
+      <description>Hardens linked-player content handover with stable DOM identity recovery, request acknowledgements, actionable timeout states, and queued non-blocking cluster delivery.</description>
+      <pubDate>Thu, 23 Jul 2026 18:20:46 GMT</pubDate>
+      <enclosure url="https://github.com/LeonLND/foundation-runtime-updates/releases/download/preview-12/Foundation-Runtime-Player-0.0.12-alpha.1-x64-Setup.exe"
+                 length="40605354"
                  type="application/octet-stream"
-                 sparkle:version="11"
-                 sparkle:shortVersionString="0.0.11-alpha.1"
+                 sparkle:version="12"
+                 sparkle:shortVersionString="0.0.12-alpha.1"
                  sparkle:os="windows-x64"
-                 sparkle:edSignature="n7XoJBAdZyMoZ7XNESBqe79Kt10UEm2lj7Sqwj6aMVIKxSfD0PXipRKeE+flZMQFCpNGorcgqirUgyv+DFXUDA=="
+                 sparkle:edSignature="kUhEGXEnKHSHp0dmCkUVPzggt4Hmtpv2kVfU62HwSp03pmkRgRXbNopuZH2bOKUYS890GM8C+7eqviHPRuI9AA=="
                  sparkle:installerArguments="/passive /norestart" />
     </item>
   </channel>
