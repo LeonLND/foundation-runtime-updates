@@ -5,16 +5,16 @@
     <link>https://raw.githubusercontent.com/LeonLND/foundation-runtime-updates/main/preview/appcast.xml</link>
     <description>Signed Foundation Runtime Player releases.</description>
     <item>
-      <title>Foundation 0.0.7-alpha.1</title>
-      <description>Overhauls physical touchscreen interactions: touch marquee selection, settled five-contact spread-to-tile and pinch-to-stack, centre-anchored two-contact window scaling, stable multi-touch release handling, and contextual refresh/settings controls after five rapid taps in every window mode.</description>
-      <pubDate>Thu, 23 Jul 2026 14:27:50 GMT</pubDate>
-      <enclosure url="https://github.com/LeonLND/foundation-runtime-updates/releases/download/preview-7/Foundation-Runtime-Player-0.0.7-alpha.1-x64-Setup.exe"
-                 length="40606894"
+      <title>Foundation 0.0.8-alpha.1</title>
+      <description>Prevents WebView touch-pan cancellation from truncating finger marquee selection and calibrates gesture settling, travel thresholds, contact geometry, and five-tap controls for large IR touch frames, including 4K 86-inch panels and multi-panel video-wall canvases.</description>
+      <pubDate>Thu, 23 Jul 2026 15:36:56 GMT</pubDate>
+      <enclosure url="https://github.com/LeonLND/foundation-runtime-updates/releases/download/preview-8/Foundation-Runtime-Player-0.0.8-alpha.1-x64-Setup.exe"
+                 length="40608474"
                  type="application/octet-stream"
-                 sparkle:version="7"
-                 sparkle:shortVersionString="0.0.7-alpha.1"
+                 sparkle:version="8"
+                 sparkle:shortVersionString="0.0.8-alpha.1"
                  sparkle:os="windows-x64"
-                 sparkle:edSignature="O1W4Robp0vtQ22ehndUaSCWgzNMp10OqwIevkt7ewMD6Ra7yHuWn005hpDjImTHx0k1zeVj59DatQPtxZIppDA=="
+                 sparkle:edSignature="kAe45zTnoj6EXUT2YfJyyXrds9ckBM68yX/THtGdTIVM+KBFvw83vKmiUrf2IRjj/L7ltRxIYboppDlberMWDw=="
                  sparkle:installerArguments="/passive /norestart" />
     </item>
   </channel>
