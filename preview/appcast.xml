@@ -5,16 +5,16 @@
     <link>https://raw.githubusercontent.com/LeonLND/foundation-runtime-updates/main/preview/appcast.xml</link>
     <description>Signed Foundation Runtime Player releases.</description>
     <item>
-      <title>Foundation 0.0.3-alpha.1</title>
-      <description>Validated zero-cost web update pipeline and monotonic Windows installer upgrade. Includes the source UniversalAPI bridge; use a development toolchain until the precompiled UE 5.7 package is promoted.</description>
-      <pubDate>Thu, 23 Jul 2026 11:10:55 GMT</pubDate>
-      <enclosure url="https://github.com/LeonLND/foundation-runtime-updates/releases/download/preview-3/Foundation-Runtime-Player-0.0.3-alpha.1-x64-Setup.exe"
-                 length="40605012"
+      <title>Foundation 0.0.4-alpha.1</title>
+      <description>Validated zero-cost web updater and Windows installer consistency. Includes the source UniversalAPI bridge; use a development toolchain until the precompiled UE 5.7 package is promoted.</description>
+      <pubDate>Thu, 23 Jul 2026 11:16:52 GMT</pubDate>
+      <enclosure url="https://github.com/LeonLND/foundation-runtime-updates/releases/download/preview-4/Foundation-Runtime-Player-0.0.4-alpha.1-x64-Setup.exe"
+                 length="40603912"
                  type="application/octet-stream"
-                 sparkle:version="3"
-                 sparkle:shortVersionString="0.0.3-alpha.1"
+                 sparkle:version="4"
+                 sparkle:shortVersionString="0.0.4-alpha.1"
                  sparkle:os="windows-x64"
-                 sparkle:edSignature="7EmnCX0VHmwY1Q03WAB1tvr1p/HFmcdU/mY9svZMfTouf6gMe9HzkvOlnm60Mv+j4Fty8c1L5ksogjAWibt7Bw=="
+                 sparkle:edSignature="DgHadvPkHnUSwKi7QoiWC4PEK8PbdoS1oHeCPld7FuKwzHRthCbY0ZEO/5scKsRGoB0ACRSRppGD/zexqodNCQ=="
                  sparkle:installerArguments="/passive /norestart" />
     </item>
   </channel>
