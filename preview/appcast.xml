@@ -5,16 +5,16 @@
     <link>https://raw.githubusercontent.com/LeonLND/foundation-runtime-updates/main/preview/appcast.xml</link>
     <description>Signed Foundation Runtime Player releases.</description>
     <item>
-      <title>Foundation 0.0.4-alpha.1</title>
-      <description>Validated zero-cost web updater and Windows installer consistency. Includes the source UniversalAPI bridge; use a development toolchain until the precompiled UE 5.7 package is promoted.</description>
-      <pubDate>Thu, 23 Jul 2026 11:16:52 GMT</pubDate>
-      <enclosure url="https://github.com/LeonLND/foundation-runtime-updates/releases/download/preview-4/Foundation-Runtime-Player-0.0.4-alpha.1-x64-Setup.exe"
-                 length="40603912"
+      <title>Foundation 0.0.5-alpha.1</title>
+      <description>Fixes blank Settings, DOM Lab and Spatial Arrangement panels after installation under Program Files by moving panel WebView data to LocalAppData and using stable packaged-content mappings.</description>
+      <pubDate>Thu, 23 Jul 2026 12:35:28 GMT</pubDate>
+      <enclosure url="https://github.com/LeonLND/foundation-runtime-updates/releases/download/preview-5/Foundation-Runtime-Player-0.0.5-alpha.1-x64-Setup.exe"
+                 length="40596742"
                  type="application/octet-stream"
-                 sparkle:version="4"
-                 sparkle:shortVersionString="0.0.4-alpha.1"
+                 sparkle:version="5"
+                 sparkle:shortVersionString="0.0.5-alpha.1"
                  sparkle:os="windows-x64"
-                 sparkle:edSignature="DgHadvPkHnUSwKi7QoiWC4PEK8PbdoS1oHeCPld7FuKwzHRthCbY0ZEO/5scKsRGoB0ACRSRppGD/zexqodNCQ=="
+                 sparkle:edSignature="cRbckndXDESLs1JQbaPV5O9EGODZKLG5MJFw/ldW+NUNpd3solqsIuir4oN0kQNe+WG+ClVZbP1Pb8WmJNJgCQ=="
                  sparkle:installerArguments="/passive /norestart" />
     </item>
   </channel>
