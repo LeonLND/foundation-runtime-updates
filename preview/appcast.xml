@@ -5,16 +5,16 @@
     <link>https://raw.githubusercontent.com/LeonLND/foundation-runtime-updates/main/preview/appcast.xml</link>
     <description>Signed Foundation Runtime Player releases.</description>
     <item>
-      <title>Foundation 0.0.9-alpha.1</title>
-      <description>Replaces multi-contact gesture recognition with preserved initial geometry and delayed evaluation for IR frames. Five-contact spread tiles, five-contact pinch stacks and remains grabbed for dragging, four contacts directly move the selected group, and attempted movement can no longer be misclassified as a five-contact tap.</description>
-      <pubDate>Thu, 23 Jul 2026 15:58:56 GMT</pubDate>
-      <enclosure url="https://github.com/LeonLND/foundation-runtime-updates/releases/download/preview-9/Foundation-Runtime-Player-0.0.9-alpha.1-x64-Setup.exe"
-                 length="40603616"
+      <title>Foundation 0.0.10-alpha.1</title>
+      <description>Simplified large-format touch workspace: two-finger activation, contextual Stack/Tile actions, responsive grouped movement, and explicit directional content handover.</description>
+      <pubDate>Thu, 23 Jul 2026 16:59:47 GMT</pubDate>
+      <enclosure url="https://github.com/LeonLND/foundation-runtime-updates/releases/download/preview-10/Foundation-Runtime-Player-0.0.10-alpha.1-x64-Setup.exe"
+                 length="40623418"
                  type="application/octet-stream"
-                 sparkle:version="9"
-                 sparkle:shortVersionString="0.0.9-alpha.1"
+                 sparkle:version="10"
+                 sparkle:shortVersionString="0.0.10-alpha.1"
                  sparkle:os="windows-x64"
-                 sparkle:edSignature="UJWjhyKdbjxGY3RspE3QOuf1HWXLiHrlpq5qN/ncgk+o9NFZKvUWwRw8Dy7oTncU+FBIHGp8Q1vWrsrHgKjSAQ=="
+                 sparkle:edSignature="2Jkwk4dhurnClnfnM4l8UA4K4A2wQXRmckBd3ZKtrNwNafyqN2D5sUT1t3OidjBVAf2KyRx9alO9m9y/9qs8CQ=="
                  sparkle:installerArguments="/passive /norestart" />
     </item>
   </channel>
