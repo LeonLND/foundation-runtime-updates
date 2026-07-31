@@ -5,16 +5,16 @@
     <link>https://raw.githubusercontent.com/LeonLND/foundation-runtime-updates/main/preview/appcast.xml</link>
     <description>Signed Foundation Runtime Player releases.</description>
     <item>
-      <title>Foundation 0.0.14-alpha.1</title>
-      <description>Fixes repeated content-window handover correlation after a released source mutation and preserves linked-display spatial topology across viewport changes, page refresh, and app restart.</description>
-      <pubDate>Thu, 23 Jul 2026 21:50:34 GMT</pubDate>
-      <enclosure url="https://github.com/LeonLND/foundation-runtime-updates/releases/download/preview-14/Foundation-Runtime-Player-0.0.14-alpha.1-x64-Setup.exe"
-                 length="40628694"
+      <title>Foundation 0.0.15-alpha.1</title>
+      <description>Cross-platform navigation overhaul, immersive room control, linked-player resilience, Foundation Bridge updates, and Windows DPI geometry fixes.</description>
+      <pubDate>Fri, 31 Jul 2026 14:19:33 GMT</pubDate>
+      <enclosure url="https://github.com/LeonLND/foundation-runtime-updates/releases/download/preview-15/Foundation-Runtime-Player-0.0.15-alpha.1-x64-Setup.exe"
+                 length="41213374"
                  type="application/octet-stream"
-                 sparkle:version="14"
-                 sparkle:shortVersionString="0.0.14-alpha.1"
+                 sparkle:version="15"
+                 sparkle:shortVersionString="0.0.15-alpha.1"
                  sparkle:os="windows-x64"
-                 sparkle:edSignature="pQsvTRPMrejxwno3jiEqEufhvUH+KPmXD+oYjumrzmiBFL2ORpH5J+zbJvBsbgE3OxT7kE4iTuR4eCVjpOeABg=="
+                 sparkle:edSignature="4qxGzWnfqE9AH2UGSVULpAXEGW4fe2jm/K+MhchmztPqVXlI7MCCOPRjFmphY9w+IkigSc62kfcN06zdvkxxDA=="
                  sparkle:installerArguments="/passive /norestart" />
     </item>
   </channel>
