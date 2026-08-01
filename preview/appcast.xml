@@ -5,16 +5,16 @@
     <link>https://raw.githubusercontent.com/LeonLND/foundation-runtime-updates/main/preview/appcast.xml</link>
     <description>Signed Foundation Runtime Player releases.</description>
     <item>
-      <title>Foundation 0.0.18-alpha.1</title>
-      <description>Restores native Foundation and CMS authentication portals, removes replicated login controls, and makes Home explicit to startup policy or the Home button.</description>
-      <pubDate>Sat, 01 Aug 2026 17:46:29 GMT</pubDate>
-      <enclosure url="https://github.com/LeonLND/foundation-runtime-updates/releases/download/preview-18/Foundation-Runtime-Player-0.0.18-alpha.1-x64-Setup.exe"
-                 length="41330342"
+      <title>Foundation 0.0.19-alpha.1</title>
+      <description>Stops startup presentation, cache, thumbnail, and catalogue automation whenever the native Foundation authentication portal is present. Clears stale loading overlays and waits for authenticated presentation DOM before bootstrap.</description>
+      <pubDate>Sat, 01 Aug 2026 18:02:23 GMT</pubDate>
+      <enclosure url="https://github.com/LeonLND/foundation-runtime-updates/releases/download/preview-19/Foundation-Runtime-Player-0.0.19-alpha.1-x64-Setup.exe"
+                 length="41330678"
                  type="application/octet-stream"
-                 sparkle:version="18"
-                 sparkle:shortVersionString="0.0.18-alpha.1"
+                 sparkle:version="19"
+                 sparkle:shortVersionString="0.0.19-alpha.1"
                  sparkle:os="windows-x64"
-                 sparkle:edSignature="IXeTRIQ4G4IORBHNxrGDaEBhMClX5sBqaW8niLd+raKQqzx3EN41DnwCVJ7WgxzibgO+gdOH0JhT8bKt8kbcCA=="
+                 sparkle:edSignature="2Sg5izuNjYx8iKrN2MBPXaBvzV172ID69svoGp1kCqpKUv+7xzs7Bfzi27uXRUDyPmbNzK6miVcSOslsCtt+CA=="
                  sparkle:installerArguments="/passive /norestart" />
     </item>
   </channel>
