@@ -5,16 +5,16 @@
     <link>https://raw.githubusercontent.com/LeonLND/foundation-runtime-updates/main/preview/appcast.xml</link>
     <description>Signed Foundation Runtime Player releases.</description>
     <item>
-      <title>Foundation 0.0.28-alpha.1</title>
-      <description>Foundation Runtime Player update.</description>
-      <pubDate>Sat, 01 Aug 2026 21:35:22 GMT</pubDate>
-      <enclosure url="https://github.com/LeonLND/foundation-runtime-updates/releases/download/preview-28/Foundation-Runtime-Player-0.0.28-alpha.1-x64-Setup.exe"
-                 length="41319986"
+      <title>Foundation 0.0.29-alpha.1</title>
+      <description>Hardens linked-player discovery, persistent reconnect, physical-player zoning, Control topology, and guarded cross-player handover.</description>
+      <pubDate>Sat, 01 Aug 2026 22:09:04 GMT</pubDate>
+      <enclosure url="https://github.com/LeonLND/foundation-runtime-updates/releases/download/preview-29/Foundation-Runtime-Player-0.0.29-alpha.1-x64-Setup.exe"
+                 length="41320344"
                  type="application/octet-stream"
-                 sparkle:version="28"
-                 sparkle:shortVersionString="0.0.28-alpha.1"
+                 sparkle:version="29"
+                 sparkle:shortVersionString="0.0.29-alpha.1"
                  sparkle:os="windows-x64"
-                 sparkle:edSignature="vaAOcKefag86uAY+FTaoyilC7hFNlTnMqYDrPj736y6w+TNo83O8psJDb+9MWx0LckFxXhdMGBXx0W4yND2QAg=="
+                 sparkle:edSignature="1VEB+IQQOerl4/g13BbPBjR0SrFfJGMipJ6mGO0fbySqRPdeJZepTXcrK9pb18GhQa98JuOO3TXbvyKEmqUvCA=="
                  sparkle:installerArguments="/passive /norestart" />
     </item>
   </channel>
