@@ -5,16 +5,16 @@
     <link>https://raw.githubusercontent.com/LeonLND/foundation-runtime-updates/main/preview/appcast.xml</link>
     <description>Signed Foundation Runtime Player releases.</description>
     <item>
-      <title>Foundation 0.0.15-alpha.1</title>
-      <description>Cross-platform navigation overhaul, immersive room control, linked-player resilience, Foundation Bridge updates, and Windows DPI geometry fixes.</description>
-      <pubDate>Fri, 31 Jul 2026 14:19:33 GMT</pubDate>
-      <enclosure url="https://github.com/LeonLND/foundation-runtime-updates/releases/download/preview-15/Foundation-Runtime-Player-0.0.15-alpha.1-x64-Setup.exe"
-                 length="41213374"
+      <title>Foundation 0.0.16-alpha.1</title>
+      <description>Foundation Home, authenticated startup routing, and configurable Home launch policy.</description>
+      <pubDate>Sat, 01 Aug 2026 17:19:03 GMT</pubDate>
+      <enclosure url="https://github.com/LeonLND/foundation-runtime-updates/releases/download/preview-16/Foundation-Runtime-Player-0.0.16-alpha.1-x64-Setup.exe"
+                 length="41336190"
                  type="application/octet-stream"
-                 sparkle:version="15"
-                 sparkle:shortVersionString="0.0.15-alpha.1"
+                 sparkle:version="16"
+                 sparkle:shortVersionString="0.0.16-alpha.1"
                  sparkle:os="windows-x64"
-                 sparkle:edSignature="4qxGzWnfqE9AH2UGSVULpAXEGW4fe2jm/K+MhchmztPqVXlI7MCCOPRjFmphY9w+IkigSc62kfcN06zdvkxxDA=="
+                 sparkle:edSignature="l6HGNch1JBLPr98kf0hRhlv+i0nxJI4ZlYZ1Goyih0QCzVN+znkCylkCc2GFfKFwDtge729u3LquZKmnTERxCg=="
                  sparkle:installerArguments="/passive /norestart" />
     </item>
   </channel>
