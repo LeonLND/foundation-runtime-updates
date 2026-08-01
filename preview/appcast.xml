@@ -5,16 +5,16 @@
     <link>https://raw.githubusercontent.com/LeonLND/foundation-runtime-updates/main/preview/appcast.xml</link>
     <description>Signed Foundation Runtime Player releases.</description>
     <item>
-      <title>Foundation 0.0.25-alpha.1</title>
-      <description>Complete rollback to the stable pre-Home runtime at d1de746. Removes the custom Home surface, DOM login automation, authentication startup experiments, and all subsequent fixes in that chain while preserving earlier Control, journeys, spatial runtime, and Figma Bridge work.</description>
-      <pubDate>Sat, 01 Aug 2026 20:21:54 GMT</pubDate>
-      <enclosure url="https://github.com/LeonLND/foundation-runtime-updates/releases/download/preview-25/Foundation-Runtime-Player-0.0.25-alpha.1-x64-Setup.exe"
-                 length="41322506"
+      <title>Foundation 0.0.27-alpha.1</title>
+      <description>Foundation Runtime Player update.</description>
+      <pubDate>Sat, 01 Aug 2026 21:19:15 GMT</pubDate>
+      <enclosure url="https://github.com/LeonLND/foundation-runtime-updates/releases/download/preview-27/Foundation-Runtime-Player-0.0.27-alpha.1-x64-Setup.exe"
+                 length="41330878"
                  type="application/octet-stream"
-                 sparkle:version="25"
-                 sparkle:shortVersionString="0.0.25-alpha.1"
+                 sparkle:version="27"
+                 sparkle:shortVersionString="0.0.27-alpha.1"
                  sparkle:os="windows-x64"
-                 sparkle:edSignature="qtBwdPhCuBV5HDgIdJJfqF0A8JhCzIGmYrzL402WXDCsTLeJjhnVY07OGiVpfAw/KW4nSEP2P0Lo+53F3RZjCw=="
+                 sparkle:edSignature="xGs5egjG/NNFfPu8mvHsxp8xoYcSchxrg6GiZT6d8IBiC7SdFr25akq43nVNo071OtLLR9vkUwXNNWxPCp/dDQ=="
                  sparkle:installerArguments="/passive /norestart" />
     </item>
   </channel>
