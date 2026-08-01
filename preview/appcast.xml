@@ -5,16 +5,16 @@
     <link>https://raw.githubusercontent.com/LeonLND/foundation-runtime-updates/main/preview/appcast.xml</link>
     <description>Signed Foundation Runtime Player releases.</description>
     <item>
-      <title>Foundation 0.0.20-alpha.1</title>
-      <description>Removes automatic startup catalogue redirects and the Loading presentations bootstrap. Clears legacy bootstrap state on every page while preserving passive cached tabs and user-initiated navigation.</description>
-      <pubDate>Sat, 01 Aug 2026 18:14:54 GMT</pubDate>
-      <enclosure url="https://github.com/LeonLND/foundation-runtime-updates/releases/download/preview-20/Foundation-Runtime-Player-0.0.20-alpha.1-x64-Setup.exe"
-                 length="41320346"
+      <title>Foundation 0.0.21-alpha.1</title>
+      <description>Recovers a stalled native Foundation session by clearing only the Foundation presentation-origin session and reopening the native login once. CMS and Microsoft SSO sessions remain untouched.</description>
+      <pubDate>Sat, 01 Aug 2026 18:33:23 GMT</pubDate>
+      <enclosure url="https://github.com/LeonLND/foundation-runtime-updates/releases/download/preview-21/Foundation-Runtime-Player-0.0.21-alpha.1-x64-Setup.exe"
+                 length="41337848"
                  type="application/octet-stream"
-                 sparkle:version="20"
-                 sparkle:shortVersionString="0.0.20-alpha.1"
+                 sparkle:version="21"
+                 sparkle:shortVersionString="0.0.21-alpha.1"
                  sparkle:os="windows-x64"
-                 sparkle:edSignature="GH3VXIJOTBNeyoF3wj1Bhn6+EV4zWlbCVNotR9Rng/yMvvDAC6/qeBsEjWwCw4FOx9g+ereDnOTyIVjdWHFLAg=="
+                 sparkle:edSignature="ECWkc25Q4oZdfdHLR+ETTnPehvevgCOblPxtRB5vCXh+BSO6EWb35jVBOoa0hLsoi4wRFEkrqXzwP1z1JnT2Dg=="
                  sparkle:installerArguments="/passive /norestart" />
     </item>
   </channel>
