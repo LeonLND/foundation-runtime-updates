@@ -5,16 +5,16 @@
     <link>https://raw.githubusercontent.com/LeonLND/foundation-runtime-updates/main/preview/appcast.xml</link>
     <description>Signed Foundation Runtime Player releases.</description>
     <item>
-      <title>Foundation 0.0.16-alpha.1</title>
-      <description>Foundation Home, authenticated startup routing, and configurable Home launch policy.</description>
-      <pubDate>Sat, 01 Aug 2026 17:19:03 GMT</pubDate>
-      <enclosure url="https://github.com/LeonLND/foundation-runtime-updates/releases/download/preview-16/Foundation-Runtime-Player-0.0.16-alpha.1-x64-Setup.exe"
-                 length="41336190"
+      <title>Foundation 0.0.17-alpha.1</title>
+      <description>Reliable Check now feedback and explicit signed updater status reporting.</description>
+      <pubDate>Sat, 01 Aug 2026 17:26:29 GMT</pubDate>
+      <enclosure url="https://github.com/LeonLND/foundation-runtime-updates/releases/download/preview-17/Foundation-Runtime-Player-0.0.17-alpha.1-x64-Setup.exe"
+                 length="41327040"
                  type="application/octet-stream"
-                 sparkle:version="16"
-                 sparkle:shortVersionString="0.0.16-alpha.1"
+                 sparkle:version="17"
+                 sparkle:shortVersionString="0.0.17-alpha.1"
                  sparkle:os="windows-x64"
-                 sparkle:edSignature="l6HGNch1JBLPr98kf0hRhlv+i0nxJI4ZlYZ1Goyih0QCzVN+znkCylkCc2GFfKFwDtge729u3LquZKmnTERxCg=="
+                 sparkle:edSignature="g27ZUCK+q4D+a4+LF2nkKTvQ6ZrkDvlK+8b3XRcjJNx/LalPsZYDXTQo4XMK6ZSeIqKS+YHrexqPIfxIZgmeAQ=="
                  sparkle:installerArguments="/passive /norestart" />
     </item>
   </channel>
