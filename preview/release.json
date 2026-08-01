@@ -1,10 +1,10 @@
 {
-  "installer": "Foundation-Runtime-Player-0.0.19-alpha.1-x64-Setup.exe",
-  "downloadUrl": "https://github.com/LeonLND/foundation-runtime-updates/releases/download/preview-19/Foundation-Runtime-Player-0.0.19-alpha.1-x64-Setup.exe",
-  "publishedUtc": "2026-08-01T18:02:23.1747167Z",
-  "sha256": "62A9E5FE5503B6254578D0F7FB770C0B9C10A86A4538DB1BA1793CAEE277A8C7",
-  "schemaVersion": 1,
-  "build": 19,
+  "downloadUrl": "https://github.com/LeonLND/foundation-runtime-updates/releases/download/preview-20/Foundation-Runtime-Player-0.0.20-alpha.1-x64-Setup.exe",
+  "build": 20,
+  "sha256": "D24D18A9D561E7B69BC9AA9BC9ED9C38BE31B300F29743B770C1B2979531C33E",
   "channel": "preview",
-  "version": "0.0.19-alpha.1"
+  "installer": "Foundation-Runtime-Player-0.0.20-alpha.1-x64-Setup.exe",
+  "version": "0.0.20-alpha.1",
+  "publishedUtc": "2026-08-01T18:14:54.2443754Z",
+  "schemaVersion": 1
 }
