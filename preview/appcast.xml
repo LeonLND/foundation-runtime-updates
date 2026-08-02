@@ -5,16 +5,16 @@
     <link>https://raw.githubusercontent.com/LeonLND/foundation-runtime-updates/main/preview/appcast.xml</link>
     <description>Signed Foundation Runtime Player releases.</description>
     <item>
-      <title>Foundation 0.0.37-alpha.1</title>
-      <description>Hardens linked-player master tiling, remote focus/PDF interaction routing, and child-window tile sequencing.</description>
-      <pubDate>Sun, 02 Aug 2026 14:46:51 GMT</pubDate>
-      <enclosure url="https://github.com/LeonLND/foundation-runtime-updates/releases/download/preview-37/Foundation-Runtime-Player-0.0.37-alpha.1-x64-Setup.exe"
-                 length="41344388"
+      <title>Foundation 0.0.38-alpha.1</title>
+      <description>Adds a capability-driven phone Control layout with journey clicker, company state controls, and verified tap-to-move routing for zones and linked players.</description>
+      <pubDate>Sun, 02 Aug 2026 16:20:48 GMT</pubDate>
+      <enclosure url="https://github.com/LeonLND/foundation-runtime-updates/releases/download/preview-38/Foundation-Runtime-Player-0.0.38-alpha.1-x64-Setup.exe"
+                 length="41343980"
                  type="application/octet-stream"
-                 sparkle:version="37"
-                 sparkle:shortVersionString="0.0.37-alpha.1"
+                 sparkle:version="38"
+                 sparkle:shortVersionString="0.0.38-alpha.1"
                  sparkle:os="windows-x64"
-                 sparkle:edSignature="VEBn1cB0abik7W2vGTmFnO3B3RPUeArWkpw6BAiFFPwfCdhv4IrYwXAIyvuxzPvChVaI9Tg/AbxGKVtpLo78Ag=="
+                 sparkle:edSignature="wCsf+CcLPv851/clmjdCu0Z5IHdeA89JRkWbUdgSGDsbzomSig0XVdpGoB2XMZqOh3/CrOBc0VJXoeTVVHKsDA=="
                  sparkle:installerArguments="/passive /norestart" />
     </item>
   </channel>
