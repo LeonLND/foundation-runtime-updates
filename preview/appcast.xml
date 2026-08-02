@@ -5,16 +5,16 @@
     <link>https://raw.githubusercontent.com/LeonLND/foundation-runtime-updates/main/preview/appcast.xml</link>
     <description>Signed Foundation Runtime Player releases.</description>
     <item>
-      <title>Foundation 0.0.38-alpha.1</title>
-      <description>Adds a capability-driven phone Control layout with journey clicker, company state controls, and verified tap-to-move routing for zones and linked players.</description>
-      <pubDate>Sun, 02 Aug 2026 16:20:48 GMT</pubDate>
-      <enclosure url="https://github.com/LeonLND/foundation-runtime-updates/releases/download/preview-38/Foundation-Runtime-Player-0.0.38-alpha.1-x64-Setup.exe"
-                 length="41343980"
+      <title>Foundation 0.0.39-alpha.1</title>
+      <description>Makes phone Live control full-bleed in landscape and adds reliable whole-thumbnail tap-to-move in portrait without changing verified drag or handover routing.</description>
+      <pubDate>Sun, 02 Aug 2026 16:33:40 GMT</pubDate>
+      <enclosure url="https://github.com/LeonLND/foundation-runtime-updates/releases/download/preview-39/Foundation-Runtime-Player-0.0.39-alpha.1-x64-Setup.exe"
+                 length="41338714"
                  type="application/octet-stream"
-                 sparkle:version="38"
-                 sparkle:shortVersionString="0.0.38-alpha.1"
+                 sparkle:version="39"
+                 sparkle:shortVersionString="0.0.39-alpha.1"
                  sparkle:os="windows-x64"
-                 sparkle:edSignature="wCsf+CcLPv851/clmjdCu0Z5IHdeA89JRkWbUdgSGDsbzomSig0XVdpGoB2XMZqOh3/CrOBc0VJXoeTVVHKsDA=="
+                 sparkle:edSignature="pHVODcrrRbSAPjS0R5uJq8T8xmAd5GOGOXR3EIUV3lZP7MvOLM1CJJGJsFS8UxbFxT6MQNRGH2fd0UV+UFpHDg=="
                  sparkle:installerArguments="/passive /norestart" />
     </item>
   </channel>
