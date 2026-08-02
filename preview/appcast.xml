@@ -5,16 +5,16 @@
     <link>https://raw.githubusercontent.com/LeonLND/foundation-runtime-updates/main/preview/appcast.xml</link>
     <description>Signed Foundation Runtime Player releases.</description>
     <item>
-      <title>Foundation 0.0.30-alpha.1</title>
-      <description>Hardens linked-player discovery across Windows and macOS by advertising on every active IPv4 interface and adding a safe directed-subnet broadcast fallback when managed LAN or Wi-Fi equipment filters multicast.</description>
-      <pubDate>Sat, 01 Aug 2026 22:18:52 GMT</pubDate>
-      <enclosure url="https://github.com/LeonLND/foundation-runtime-updates/releases/download/preview-30/Foundation-Runtime-Player-0.0.30-alpha.1-x64-Setup.exe"
-                 length="41333190"
+      <title>Foundation 0.0.31-alpha.1</title>
+      <description>Hardens linked-player handover with destination commit acknowledgement, reconnect-safe retries, verified rollback, deferred window identity recovery, and smoother physical display placement.</description>
+      <pubDate>Sun, 02 Aug 2026 09:15:27 GMT</pubDate>
+      <enclosure url="https://github.com/LeonLND/foundation-runtime-updates/releases/download/preview-31/Foundation-Runtime-Player-0.0.31-alpha.1-x64-Setup.exe"
+                 length="41329404"
                  type="application/octet-stream"
-                 sparkle:version="30"
-                 sparkle:shortVersionString="0.0.30-alpha.1"
+                 sparkle:version="31"
+                 sparkle:shortVersionString="0.0.31-alpha.1"
                  sparkle:os="windows-x64"
-                 sparkle:edSignature="KyyNUZqI+H4D3QWmcxPlXaeXyJwz1C0pNl+hBBcjJdxA9Gym0TxD7Tq4/rZsHbYB2yEzjqT0y5lEyYWAJZIbBw=="
+                 sparkle:edSignature="xfjgQuSeFaZaDe+JQfO9w4L7jrP7oKdrTyVPHFTnywhj/uVwhReqvHxYcJbVG5cWbue8aNkq8TEDrpVTiYaBDQ=="
                  sparkle:installerArguments="/passive /norestart" />
     </item>
   </channel>
