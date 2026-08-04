@@ -5,16 +5,16 @@
     <link>https://raw.githubusercontent.com/LeonLND/foundation-runtime-updates/main/preview/appcast.xml</link>
     <description>Signed Foundation Runtime Player releases.</description>
     <item>
-      <title>Foundation 0.0.39-alpha.1</title>
-      <description>Makes phone Live control full-bleed in landscape and adds reliable whole-thumbnail tap-to-move in portrait without changing verified drag or handover routing.</description>
-      <pubDate>Sun, 02 Aug 2026 16:33:40 GMT</pubDate>
-      <enclosure url="https://github.com/LeonLND/foundation-runtime-updates/releases/download/preview-39/Foundation-Runtime-Player-0.0.39-alpha.1-x64-Setup.exe"
-                 length="41338714"
+      <title>Foundation 0.0.40-alpha.1</title>
+      <description>Foundation control, linked-player, panorama interaction, and Figma Bridge hardening and performance update.</description>
+      <pubDate>Tue, 04 Aug 2026 00:15:11 GMT</pubDate>
+      <enclosure url="https://github.com/LeonLND/foundation-runtime-updates/releases/download/preview-40/Foundation-Runtime-Player-0.0.40-alpha.1-x64-Setup.exe"
+                 length="114172878"
                  type="application/octet-stream"
-                 sparkle:version="39"
-                 sparkle:shortVersionString="0.0.39-alpha.1"
+                 sparkle:version="40"
+                 sparkle:shortVersionString="0.0.40-alpha.1"
                  sparkle:os="windows-x64"
-                 sparkle:edSignature="pHVODcrrRbSAPjS0R5uJq8T8xmAd5GOGOXR3EIUV3lZP7MvOLM1CJJGJsFS8UxbFxT6MQNRGH2fd0UV+UFpHDg=="
+                 sparkle:edSignature="QopDUDGSQUtl+sTksPa0AMXzO1RxXs9V5CmotUtdhT2XRlHBLRdoNmK5Xnqf/U4va6qnN/WWgc7evQVTElh6Ag=="
                  sparkle:installerArguments="/passive /norestart" />
     </item>
   </channel>
